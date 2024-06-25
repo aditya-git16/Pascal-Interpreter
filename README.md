@@ -11,3 +11,8 @@ Wrote a basic interpreter, it can do addition for single digits only and does no
 #### 2. calc2
 
 Same as calc1 but supports subtraction, multiple digits and whitespaces as well.
+
+***
+
+- [ ] Add notes and references links
+- [ ] Optimise code and refactor
